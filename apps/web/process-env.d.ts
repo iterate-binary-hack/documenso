@@ -19,5 +19,7 @@ declare namespace NodeJS {
     NEXT_PRIVATE_OIDC_CLIENT_SECRET: string;
     NEXT_PRIVATE_OIDC_ALLOW_SIGNUP?: string;
     NEXT_PRIVATE_OIDC_SKIP_VERIFY?: string;
+
+    NEXT_PUBLIC_MIXPANEL_TOKEN?: string;
   }
 }

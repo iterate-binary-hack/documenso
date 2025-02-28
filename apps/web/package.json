@@ -26,6 +26,7 @@
     "@lingui/react": "^4.11.3",
     "@simplewebauthn/browser": "^9.0.1",
     "@simplewebauthn/server": "^9.0.3",
+    "mixpanel-browser": "^2.56.0",
     "colord": "^2.9.3",
     "cookie-es": "^1.0.0",
     "formidable": "^2.1.1",

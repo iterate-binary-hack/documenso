@@ -156,6 +156,10 @@ services:
       - key: NEXT_PUBLIC_DISABLE_SIGNUP
         sync: false
 
+      # Mixpanel
+      - key: NEXT_PUBLIC_MIXPANEL_TOKEN
+        sync: false
+
 databases:
   - name: documenso-db
     plan: free

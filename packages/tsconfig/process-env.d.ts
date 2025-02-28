@@ -91,6 +91,11 @@ declare namespace NodeJS {
     NEXT_PRIVATE_LOGGER_HONEY_BADGER_API_KEY?: string;
 
     /**
+     * Mixpanel environment variables
+     */
+    NEXT_PUBLIC_MIXPANEL_TOKEN?: string;
+
+    /**
      * Vercel environment variables
      */
     VERCEL?: string;
